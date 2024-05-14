@@ -1,9 +1,9 @@
-<h1 align="center">Oi, eu sou o João</h1>
-<h3 align="center">Sou apaixonado por gerar insights por meio da análise de dados</h3>
+<h1 align="center">Oi, eu sou o João!</h1>
+<h3 align="center">Sou apaixonado por gerar insights por meio da análise de dados.</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
+- 🌱 Atualmente estou aprendendo **Python e Machine Learning.**
 
-- 💬 Me pergunte sobre **PowerBI, SQL, Google Analytics, Excel e Python**
+- 💬 Me pergunte sobre **PowerBI, SQL, Google Analytics, Excel e Python.**
 
 - 📫 How to reach me **joao.madeir4@hotmail.com**
 
