@@ -21,7 +21,13 @@ Acredito no poder dos dados para impulsionar resultados, dar visibilidade ao que
 -   **Tecnólogo em Análise e Desenvolvimento de Sistemas**
 -   **Especialização em Ciência de Dados e Machine Learning Engineering** (Cursando)
 ---
+### 🏆 Projetos Recentes
+#### Dados & Ciência de Dados
+* [**Performance Analytics: Brasileirão 2024**](https://github.com/joaomadeir4/brasileirao-data-analysis): Modelagem preditiva (Regressão Linear) com Scikit-Learn para validar a eficácia estatística da métrica de Gols Esperados (xG).
+#### Back-end com Python
+* [**Sistema Bancário em Python**](https://github.com/joaomadeir4/sistema-bancario-em-python): Refatoração de arquitetura para Programação Orientada a Objetos (POO), focando em clean code, logs e separação de responsabilidades.
 
+---
 ### 🛠️ Stack Técnica
 
 #### 🗄️ Bancos de Dados & Cloud
